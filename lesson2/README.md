@@ -8,3 +8,5 @@
 3. [Создайте таблицу “orders”, заполните ее значениями.Выберите все заказы. В зависимости от поля order_status выведите столбец full_order_status: OPEN – «Order is in open state» ; CLOSED - «Order is closed»; CANCELLED -  «Order is cancelled»](/lesson2/Task_3.sql)
 ![](./images/task3.png)
 
+4.[1. CRUD - операции на любом ЯП. Коннект с БД через С#, к примеру](/lesson2/python_sql_project/src/main.py)
+
